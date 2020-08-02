@@ -1,0 +1,11 @@
+#require "oUnit";;
+#require "yojson";;
+#require "ANSITerminal";;
+#directory "_build";;
+#load "deck.cmo";;
+#load "command.cmo";;
+#load "state.cmo";;
+#load "main.cmo";;
+#load "authors.cmo";;
+#load "formatter.cmo";;
+#load "autoplayer.cmo";;

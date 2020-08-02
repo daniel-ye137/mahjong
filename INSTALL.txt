@@ -1,0 +1,3 @@
+run "ocamlbuild authors.cmi" before running "make docs"
+
+run "make run" to play the game
